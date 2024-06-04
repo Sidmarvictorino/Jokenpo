@@ -9,4 +9,4 @@ Função Math.random(): para gerar uma escolha aleatória para o computador.
 Estruturas condicionais if-else: para definir a lógica de vitória, derrota ou empate.
 Sinta-se à vontade para explorar o código e contribuir com melhorias. Divirta-se jogando!
 
-<img src="Sem título.png"/>
+<img src="./assets/Sem título.png"/>
